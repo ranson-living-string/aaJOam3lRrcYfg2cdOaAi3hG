@@ -1,9 +1,9 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-07-23T00:12:10.474066+00:00",
+  "generatedAt": "2026-07-24T00:15:44.968214+00:00",
   "provider": "cs.rin.ru",
   "sourceForum": null,
-  "discoveredTopics": 18,
+  "discoveredTopics": 1,
   "releases": [
     {
       "provider": "cs.rin.ru",
@@ -9763,6 +9763,8 @@
     {
       "provider": "cs.rin.ru",
       "title": "Hello Kitty Island Adventure (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: vikingfile.com link https://vikingfile.com/f/FV8MVdtE2x ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 2.13.0 (BuildID 22100665) Make sure to read the DenuvOwO.nfo SHA-256: 604ffc677f998d8777c90479b7ea089c2872f328343d55c8c81959288cc111b8 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
+      "releaseName": null,
+      "gameTitle": "Hello Kitty Island Adventure (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: vikingfile.com link https://vikingfile.com/f/FV8MVdtE2x ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 2.13.0 (BuildID 22100665) Make sure to read the DenuvOwO.nfo SHA-256: 604ffc677f998d8777c90479b7ea089c2872f328343d55c8c81959288cc111b8 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
       "steamAppId": null,
       "buildId": "22100665",
       "version": "2.13.0",
@@ -9795,7 +9797,6 @@
       "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
-      "requiresConfirmation": true,
       "nfoReleaseDate": null,
       "shopReleaseDate": null,
       "nfoReleaseType": null,
@@ -9804,12 +9805,13 @@
       "protection": null,
       "hashAlgorithm": null,
       "hashValue": null,
-      "releaseName": null,
-      "gameTitle": "Hello Kitty Island Adventure (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: vikingfile.com link https://vikingfile.com/f/FV8MVdtE2x ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 2.13.0 (BuildID 22100665) Make sure to read the DenuvOwO.nfo SHA-256: 604ffc677f998d8777c90479b7ea089c2872f328343d55c8c81959288cc111b8 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435"
+      "requiresConfirmation": true
     },
     {
       "provider": "cs.rin.ru",
       "title": "FAR: Changing Tides (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: vikingfile.com link https://vikingfile.com/f/U63G5hETpb ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 1.2.0 (BuildID 20269132) Make sure to read the DenuvOwO.nfo SHA-256: 506c0cce26f039ebe8f6c174b5f3caa119a6f0adbdd8a05f502f11459502f56b Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
+      "releaseName": null,
+      "gameTitle": "FAR: Changing Tides (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: vikingfile.com link https://vikingfile.com/f/U63G5hETpb ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 1.2.0 (BuildID 20269132) Make sure to read the DenuvOwO.nfo SHA-256: 506c0cce26f039ebe8f6c174b5f3caa119a6f0adbdd8a05f502f11459502f56b Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
       "steamAppId": null,
       "buildId": "20269132",
       "version": "1.2.0",
@@ -9842,7 +9844,6 @@
       "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
-      "requiresConfirmation": true,
       "nfoReleaseDate": null,
       "shopReleaseDate": null,
       "nfoReleaseType": null,
@@ -9851,12 +9852,13 @@
       "protection": null,
       "hashAlgorithm": null,
       "hashValue": null,
-      "releaseName": null,
-      "gameTitle": "FAR: Changing Tides (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: vikingfile.com link https://vikingfile.com/f/U63G5hETpb ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 1.2.0 (BuildID 20269132) Make sure to read the DenuvOwO.nfo SHA-256: 506c0cce26f039ebe8f6c174b5f3caa119a6f0adbdd8a05f502f11459502f56b Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435"
+      "requiresConfirmation": true
     },
     {
       "provider": "cs.rin.ru",
       "title": "Football Manager 26 (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: vikingfile.com link https://vikingfile.com/f/ci8hqVJaqI ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 26.2.0 (BuildID 22281833) Make sure to read the DenuvOwO.nfo SHA-256: 11c8d3bc4e6f8e147121f9ab3d3c3a85125e41deb8ce1eb92f0ac694a5bc056e Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
+      "releaseName": null,
+      "gameTitle": "Football Manager 26 (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: vikingfile.com link https://vikingfile.com/f/ci8hqVJaqI ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 26.2.0 (BuildID 22281833) Make sure to read the DenuvOwO.nfo SHA-256: 11c8d3bc4e6f8e147121f9ab3d3c3a85125e41deb8ce1eb92f0ac694a5bc056e Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
       "steamAppId": null,
       "buildId": "22281833",
       "version": "26.2.0",
@@ -9889,7 +9891,6 @@
       "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
-      "requiresConfirmation": true,
       "nfoReleaseDate": null,
       "shopReleaseDate": null,
       "nfoReleaseType": null,
@@ -9898,12 +9899,13 @@
       "protection": null,
       "hashAlgorithm": null,
       "hashValue": null,
-      "releaseName": null,
-      "gameTitle": "Football Manager 26 (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: vikingfile.com link https://vikingfile.com/f/ci8hqVJaqI ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 26.2.0 (BuildID 22281833) Make sure to read the DenuvOwO.nfo SHA-256: 11c8d3bc4e6f8e147121f9ab3d3c3a85125e41deb8ce1eb92f0ac694a5bc056e Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435"
+      "requiresConfirmation": true
     },
     {
       "provider": "cs.rin.ru",
       "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/uJKP422bii ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 22175057 Make sure to read the DenuvOwO.nfo SHA-256: b25dd5d41a6debc59fab97a487f9a9cf1b12d64f3ef6c712f9ec2ec282411eba Updated link to include VBS 1.3 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
+      "releaseName": null,
+      "gameTitle": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/uJKP422bii ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 22175057 Make sure to read the DenuvOwO.nfo SHA-256: b25dd5d41a6debc59fab97a487f9a9cf1b12d64f3ef6c712f9ec2ec282411eba Updated link to include VBS 1.3 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
       "steamAppId": null,
       "buildId": null,
       "version": null,
@@ -9936,7 +9938,6 @@
       "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
-      "requiresConfirmation": true,
       "nfoReleaseDate": null,
       "shopReleaseDate": null,
       "nfoReleaseType": null,
@@ -9945,12 +9946,13 @@
       "protection": null,
       "hashAlgorithm": null,
       "hashValue": null,
-      "releaseName": null,
-      "gameTitle": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/uJKP422bii ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 22175057 Make sure to read the DenuvOwO.nfo SHA-256: b25dd5d41a6debc59fab97a487f9a9cf1b12d64f3ef6c712f9ec2ec282411eba Updated link to include VBS 1.3 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435"
+      "requiresConfirmation": true
     },
     {
       "provider": "cs.rin.ru",
       "title": "Crimson Desert (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/51EJk9ZhzZ ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . SHA-256: d797d5dd391c20a8cdb2344b9ada2a89df64b91815e1a13b40a59b0faaf63689 Game build is 22457127 Make sure to read the DenuvOwO.nfo Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
+      "releaseName": null,
+      "gameTitle": "Crimson Desert (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/51EJk9ZhzZ ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . SHA-256: d797d5dd391c20a8cdb2344b9ada2a89df64b91815e1a13b40a59b0faaf63689 Game build is 22457127 Make sure to read the DenuvOwO.nfo Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
       "steamAppId": null,
       "buildId": null,
       "version": null,
@@ -9983,7 +9985,6 @@
       "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
-      "requiresConfirmation": true,
       "nfoReleaseDate": null,
       "shopReleaseDate": null,
       "nfoReleaseType": null,
@@ -9992,12 +9993,13 @@
       "protection": null,
       "hashAlgorithm": null,
       "hashValue": null,
-      "releaseName": null,
-      "gameTitle": "Crimson Desert (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/51EJk9ZhzZ ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . SHA-256: d797d5dd391c20a8cdb2344b9ada2a89df64b91815e1a13b40a59b0faaf63689 Game build is 22457127 Make sure to read the DenuvOwO.nfo Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435"
+      "requiresConfirmation": true
     },
     {
       "provider": "cs.rin.ru",
       "title": "Resident Evil Requiem (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vik1ngfile.site link https://vik1ngfile.site/f/pi2OxFhfy5 ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 22277314 Make sure to read the DenuvOwO.nfo SHA-256: aec23598df945e194f9d2751921b5d7918471932cfd03f6a75d56ba91bbce739 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
+      "releaseName": null,
+      "gameTitle": "Resident Evil Requiem (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vik1ngfile.site link https://vik1ngfile.site/f/pi2OxFhfy5 ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 22277314 Make sure to read the DenuvOwO.nfo SHA-256: aec23598df945e194f9d2751921b5d7918471932cfd03f6a75d56ba91bbce739 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
       "steamAppId": null,
       "buildId": null,
       "version": null,
@@ -10030,7 +10032,6 @@
       "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
-      "requiresConfirmation": true,
       "nfoReleaseDate": null,
       "shopReleaseDate": null,
       "nfoReleaseType": null,
@@ -10039,12 +10040,13 @@
       "protection": null,
       "hashAlgorithm": null,
       "hashValue": null,
-      "releaseName": null,
-      "gameTitle": "Resident Evil Requiem (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vik1ngfile.site link https://vik1ngfile.site/f/pi2OxFhfy5 ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 22277314 Make sure to read the DenuvOwO.nfo SHA-256: aec23598df945e194f9d2751921b5d7918471932cfd03f6a75d56ba91bbce739 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435"
+      "requiresConfirmation": true
     },
     {
       "provider": "cs.rin.ru",
       "title": "Monster Hunter Wilds (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/Byuxpbq7v3 ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 22195748 Make sure to read the DenuvOwO.nfo SHA-256: 4a0fd3457b2e822069f2f18e5e50d7082d829f0053d6440a5c9c90d148663401 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
+      "releaseName": null,
+      "gameTitle": "Monster Hunter Wilds (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/Byuxpbq7v3 ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 22195748 Make sure to read the DenuvOwO.nfo SHA-256: 4a0fd3457b2e822069f2f18e5e50d7082d829f0053d6440a5c9c90d148663401 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
       "steamAppId": null,
       "buildId": null,
       "version": null,
@@ -10077,7 +10079,6 @@
       "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
-      "requiresConfirmation": true,
       "nfoReleaseDate": null,
       "shopReleaseDate": null,
       "nfoReleaseType": null,
@@ -10086,12 +10087,13 @@
       "protection": null,
       "hashAlgorithm": null,
       "hashValue": null,
-      "releaseName": null,
-      "gameTitle": "Monster Hunter Wilds (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/Byuxpbq7v3 ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 22195748 Make sure to read the DenuvOwO.nfo SHA-256: 4a0fd3457b2e822069f2f18e5e50d7082d829f0053d6440a5c9c90d148663401 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435"
+      "requiresConfirmation": true
     },
     {
       "provider": "cs.rin.ru",
       "title": "Borderlands 4 (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/NnLfbwVrjx ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 21971224 Make sure to read the DenuvOwO.nfo SHA-256: 689e81095fe8d332d0520063f4f2c406665389570f2693394c169fdb21c400c6 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
+      "releaseName": null,
+      "gameTitle": "Borderlands 4 (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/NnLfbwVrjx ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 21971224 Make sure to read the DenuvOwO.nfo SHA-256: 689e81095fe8d332d0520063f4f2c406665389570f2693394c169fdb21c400c6 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
       "steamAppId": null,
       "buildId": null,
       "version": null,
@@ -10124,7 +10126,6 @@
       "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
-      "requiresConfirmation": true,
       "nfoReleaseDate": null,
       "shopReleaseDate": null,
       "nfoReleaseType": null,
@@ -10133,12 +10134,13 @@
       "protection": null,
       "hashAlgorithm": null,
       "hashValue": null,
-      "releaseName": null,
-      "gameTitle": "Borderlands 4 (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/NnLfbwVrjx ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 21971224 Make sure to read the DenuvOwO.nfo SHA-256: 689e81095fe8d332d0520063f4f2c406665389570f2693394c169fdb21c400c6 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435"
+      "requiresConfirmation": true
     },
     {
       "provider": "cs.rin.ru",
       "title": "Sonic Racing CrossWorlds (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/Ny2RDMhjPP ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 21982508 Make sure to read the DenuvOwO.nfo SHA-256: 4e0b0827b186b2a652fad4b6dfdd452c9b37e0425becf0132f6d858e4cea871d Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
+      "releaseName": null,
+      "gameTitle": "Sonic Racing CrossWorlds (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/Ny2RDMhjPP ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 21982508 Make sure to read the DenuvOwO.nfo SHA-256: 4e0b0827b186b2a652fad4b6dfdd452c9b37e0425becf0132f6d858e4cea871d Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
       "steamAppId": null,
       "buildId": null,
       "version": null,
@@ -10171,7 +10173,6 @@
       "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
-      "requiresConfirmation": true,
       "nfoReleaseDate": null,
       "shopReleaseDate": null,
       "nfoReleaseType": null,
@@ -10180,12 +10181,13 @@
       "protection": null,
       "hashAlgorithm": null,
       "hashValue": null,
-      "releaseName": null,
-      "gameTitle": "Sonic Racing CrossWorlds (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/Ny2RDMhjPP ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 21982508 Make sure to read the DenuvOwO.nfo SHA-256: 4e0b0827b186b2a652fad4b6dfdd452c9b37e0425becf0132f6d858e4cea871d Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435"
+      "requiresConfirmation": true
     },
     {
       "provider": "cs.rin.ru",
       "title": "Sonic Superstars (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/EGnebx6aJP ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 20280032 Make sure to read the DenuvOwO.nfo SHA-256: 4ca7f7504c0fed9a6cf95a701a61135d1d376690066ba5e484b1eedb6954c9ec Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
+      "releaseName": null,
+      "gameTitle": "Sonic Superstars (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/EGnebx6aJP ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 20280032 Make sure to read the DenuvOwO.nfo SHA-256: 4ca7f7504c0fed9a6cf95a701a61135d1d376690066ba5e484b1eedb6954c9ec Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
       "steamAppId": null,
       "buildId": null,
       "version": null,
@@ -10218,7 +10220,6 @@
       "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
-      "requiresConfirmation": true,
       "nfoReleaseDate": null,
       "shopReleaseDate": null,
       "nfoReleaseType": null,
@@ -10227,12 +10228,13 @@
       "protection": null,
       "hashAlgorithm": null,
       "hashValue": null,
-      "releaseName": null,
-      "gameTitle": "Sonic Superstars (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: ZeOn, Sagerao, Special For, Andreh, Mojtaba ❤️ Link: vikingfile.com link https://vikingfile.com/f/EGnebx6aJP ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game build is 20280032 Make sure to read the DenuvOwO.nfo SHA-256: 4ca7f7504c0fed9a6cf95a701a61135d1d376690066ba5e484b1eedb6954c9ec Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435"
+      "requiresConfirmation": true
     },
     {
       "provider": "cs.rin.ru",
       "title": "F1® 25 (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: vikingfile.com link https://vikingfile.com/f/n4XGYkUz3T ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 1.18 (BuildID 22074649) Only the Steam version of the game is supported Make sure to read the DenuvOwO.nfo SHA-256: ef11dfd408d5beef144cc71252d05c8cdf624b577261e9d3eb0d1d91cb56f54e Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
+      "releaseName": null,
+      "gameTitle": "F1® 25 (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: vikingfile.com link https://vikingfile.com/f/n4XGYkUz3T ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 1.18 (BuildID 22074649) Only the Steam version of the game is supported Make sure to read the DenuvOwO.nfo SHA-256: ef11dfd408d5beef144cc71252d05c8cdf624b577261e9d3eb0d1d91cb56f54e Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
       "steamAppId": null,
       "buildId": "22074649",
       "version": "1.18",
@@ -10265,7 +10267,6 @@
       "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
-      "requiresConfirmation": true,
       "nfoReleaseDate": null,
       "shopReleaseDate": null,
       "nfoReleaseType": null,
@@ -10274,12 +10275,13 @@
       "protection": null,
       "hashAlgorithm": null,
       "hashValue": null,
-      "releaseName": null,
-      "gameTitle": "F1® 25 (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: vikingfile.com link https://vikingfile.com/f/n4XGYkUz3T ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 1.18 (BuildID 22074649) Only the Steam version of the game is supported Make sure to read the DenuvOwO.nfo SHA-256: ef11dfd408d5beef144cc71252d05c8cdf624b577261e9d3eb0d1d91cb56f54e Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435"
+      "requiresConfirmation": true
     },
     {
       "provider": "cs.rin.ru",
       "title": "Yakuza Kiwami 3 & Dark Ties (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: vikingfile.com link https://vikingfile.com/f/lguujQNJdz ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 1.15 (BuildID 22369130) Make sure to read the DenuvOwO.nfo SHA-256: 3fc61055e6c79d8ed22de8916ca8a78dcf9564be99a496cfdf00e43661ac82cd Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
+      "releaseName": null,
+      "gameTitle": "Yakuza Kiwami 3 & Dark Ties (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: vikingfile.com link https://vikingfile.com/f/lguujQNJdz ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 1.15 (BuildID 22369130) Make sure to read the DenuvOwO.nfo SHA-256: 3fc61055e6c79d8ed22de8916ca8a78dcf9564be99a496cfdf00e43661ac82cd Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
       "steamAppId": null,
       "buildId": "22369130",
       "version": "1.15",
@@ -10312,7 +10314,6 @@
       "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
-      "requiresConfirmation": true,
       "nfoReleaseDate": null,
       "shopReleaseDate": null,
       "nfoReleaseType": null,
@@ -10321,12 +10322,13 @@
       "protection": null,
       "hashAlgorithm": null,
       "hashValue": null,
-      "releaseName": null,
-      "gameTitle": "Yakuza Kiwami 3 & Dark Ties (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: vikingfile.com link https://vikingfile.com/f/lguujQNJdz ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 1.15 (BuildID 22369130) Make sure to read the DenuvOwO.nfo SHA-256: 3fc61055e6c79d8ed22de8916ca8a78dcf9564be99a496cfdf00e43661ac82cd Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435"
+      "requiresConfirmation": true
     },
     {
       "provider": "cs.rin.ru",
       "title": "NBA 2K26 (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: buzzheavier.com link https://buzzheavier.com/g3j9mob6b0vx ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 5.0 (BuildID 21854837) Make sure to read the DenuvOwO.nfo SHA-256: 746deeb3b477d7eaadd761bdbcdee0436136a26a4b63f12eeaacd606714c34a0 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
+      "releaseName": null,
+      "gameTitle": "NBA 2K26 (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: buzzheavier.com link https://buzzheavier.com/g3j9mob6b0vx ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 5.0 (BuildID 21854837) Make sure to read the DenuvOwO.nfo SHA-256: 746deeb3b477d7eaadd761bdbcdee0436136a26a4b63f12eeaacd606714c34a0 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435",
       "steamAppId": null,
       "buildId": "21854837",
       "version": "5.0",
@@ -10359,7 +10361,6 @@
       "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
-      "requiresConfirmation": true,
       "nfoReleaseDate": null,
       "shopReleaseDate": null,
       "nfoReleaseType": null,
@@ -10368,8 +10369,7 @@
       "protection": null,
       "hashAlgorithm": null,
       "hashValue": null,
-      "releaseName": null,
-      "gameTitle": "NBA 2K26 (Hypervisor) (INTEL & AMD) - DenuvOwO Massive thanks to those who helped: Kirigiri's, 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: buzzheavier.com link https://buzzheavier.com/g3j9mob6b0vx ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 5.0 (BuildID 21854837) Make sure to read the DenuvOwO.nfo SHA-256: 746deeb3b477d7eaadd761bdbcdee0436136a26a4b63f12eeaacd606714c34a0 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435"
+      "requiresConfirmation": true
     },
     {
       "provider": "cs.rin.ru",
@@ -10918,6 +10918,226 @@
       "edition": null,
       "includesDlc": null,
       "isLatestVersion": true,
+      "updateNotes": [],
+      "supersedesPreviousLink": false,
+      "nfoReleaseDate": null,
+      "shopReleaseDate": null,
+      "nfoReleaseType": null,
+      "nfoKind": null,
+      "nfoFormat": null,
+      "protection": null,
+      "hashAlgorithm": null,
+      "hashValue": null,
+      "requiresConfirmation": true
+    },
+    {
+      "provider": "cs.rin.ru",
+      "title": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+      "releaseName": null,
+      "gameTitle": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+      "steamAppId": null,
+      "buildId": "24304240",
+      "version": "1.5.2",
+      "sha256": "127c2303ec386bced17f0d4741abb9ba891b5cfd9fa922f324ad948742b5a561",
+      "author": "DenuvOwO",
+      "releaseType": "hypervisor",
+      "links": [
+        {
+          "url": "https://bzzhr.to/x5a2oz0u2l6q",
+          "host": "bzzhr.to",
+          "label": "Link",
+          "role": "Link"
+        }
+      ],
+      "sourceTopicId": 156435,
+      "sourcePostId": 3555345,
+      "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3555345#p3555345",
+      "postedAt": null,
+      "text": "FINAL FANTASY TACTICS - The Ivalice Chronicles HYPERVISOR - DenuvOwO Massive thanks to those who helped: 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: bzzhr.to link https://bzzhr.to/x5a2oz0u2l6q ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 1.5.2 (BuildID 24304240) Make sure to read the NFO SHA-256: 127c2303ec386bced17f0d4741abb9ba891b5cfd9fa922f324ad948742b5a561 Learn more here on HV releases: Hypervisor cracks - best practices and release requirements Hypervisor cracks and Windows security - an introduction All questions related to issues & support should only be raised in the Hypervisor cracks support topic. Hypervisor-based releases are EXPERIMENTAL: It is possible to encounter BSODs.",
+      "packageTypes": [
+        "combined-or-unspecified"
+      ],
+      "cpuRequirements": [],
+      "supportedCpuVendors": [],
+      "edition": null,
+      "includesDlc": null,
+      "isLatestVersion": false,
+      "updateNotes": [],
+      "supersedesPreviousLink": false,
+      "nfoReleaseDate": null,
+      "shopReleaseDate": null,
+      "nfoReleaseType": null,
+      "nfoKind": null,
+      "nfoFormat": null,
+      "protection": null,
+      "hashAlgorithm": null,
+      "hashValue": null,
+      "requiresConfirmation": true
+    },
+    {
+      "provider": "cs.rin.ru",
+      "title": "LEGO® Batman™: Legacy of the Dark Knight",
+      "releaseName": null,
+      "gameTitle": "LEGO® Batman™: Legacy of the Dark Knight",
+      "steamAppId": null,
+      "buildId": "24240150",
+      "version": "1.008",
+      "sha256": "0c848358b9b30c64c4616c9bbd792b720d4fd989ea08420a860c77ba94c43185",
+      "author": "DenuvOwO",
+      "releaseType": "hypervisor",
+      "links": [
+        {
+          "url": "https://bzzhr.to/ufv1ylow81up",
+          "host": "bzzhr.to",
+          "label": "Link",
+          "role": "Link"
+        }
+      ],
+      "sourceTopicId": 103030,
+      "sourcePostId": 3555306,
+      "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3555306#p3555306",
+      "postedAt": null,
+      "text": "LEGO® Batman™: Legacy of the Dark Knight HYPERVISOR - DenuvOwO Massive thanks to those who helped: 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: bzzhr.to link https://bzzhr.to/ufv1ylow81up ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 1.008 (BuildID 24240150) Make sure to read the NFO SHA-256: 0c848358b9b30c64c4616c9bbd792b720d4fd989ea08420a860c77ba94c43185 Learn more here on HV releases: Hypervisor cracks - best practices and release requirements Hypervisor cracks and Windows security - an introduction All questions related to issues & support should only be raised in the Hypervisor cracks support topic. Hypervisor-based releases are EXPERIMENTAL: It is possible to encounter BSODs.",
+      "packageTypes": [
+        "combined-or-unspecified"
+      ],
+      "cpuRequirements": [],
+      "supportedCpuVendors": [],
+      "edition": null,
+      "includesDlc": null,
+      "isLatestVersion": false,
+      "updateNotes": [],
+      "supersedesPreviousLink": false,
+      "nfoReleaseDate": null,
+      "shopReleaseDate": null,
+      "nfoReleaseType": null,
+      "nfoKind": null,
+      "nfoFormat": null,
+      "protection": null,
+      "hashAlgorithm": null,
+      "hashValue": null,
+      "requiresConfirmation": true
+    },
+    {
+      "provider": "cs.rin.ru",
+      "title": "Jurassic World Evolution 3",
+      "releaseName": null,
+      "gameTitle": "Jurassic World Evolution 3",
+      "steamAppId": null,
+      "buildId": "24127633",
+      "version": "1.3.6",
+      "sha256": "986aad617d003597d7aa92e7b7089a679b7af1912abc6b2d73e31e0714783ac0",
+      "author": "DenuvOwO",
+      "releaseType": "hypervisor",
+      "links": [
+        {
+          "url": "https://bzzhr.to/tr5egyp5cqjf",
+          "host": "bzzhr.to",
+          "label": "Link",
+          "role": "Link"
+        }
+      ],
+      "sourceTopicId": 159345,
+      "sourcePostId": 3555302,
+      "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3555302#p3555302",
+      "postedAt": null,
+      "text": "Jurassic World Evolution 3 HYPERVISOR - DenuvOwO Massive thanks to those who helped: 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: bzzhr.to link https://bzzhr.to/tr5egyp5cqjf ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 1.3.6 (BuildID 24127633) Make sure to read the NFO SHA-256: 986aad617d003597d7aa92e7b7089a679b7af1912abc6b2d73e31e0714783ac0 Learn more here on HV releases: Hypervisor cracks - best practices and release requirements Hypervisor cracks and Windows security - an introduction All questions related to issues & support should only be raised in the Hypervisor cracks support topic. Hypervisor-based releases are EXPERIMENTAL: It is possible to encounter BSODs.",
+      "packageTypes": [
+        "combined-or-unspecified"
+      ],
+      "cpuRequirements": [],
+      "supportedCpuVendors": [],
+      "edition": null,
+      "includesDlc": null,
+      "isLatestVersion": false,
+      "updateNotes": [],
+      "supersedesPreviousLink": false,
+      "nfoReleaseDate": null,
+      "shopReleaseDate": null,
+      "nfoReleaseType": null,
+      "nfoKind": null,
+      "nfoFormat": null,
+      "protection": null,
+      "hashAlgorithm": null,
+      "hashValue": null,
+      "requiresConfirmation": true
+    },
+    {
+      "provider": "cs.rin.ru",
+      "title": "WWE 2K26",
+      "releaseName": null,
+      "gameTitle": "WWE 2K26",
+      "steamAppId": null,
+      "buildId": "24193653",
+      "version": "1.14",
+      "sha256": "587b6b8f424c7263631d2a33c498ecdf7ad6388a5161cf1c4b29f8d2f22cf734",
+      "author": "DenuvOwO",
+      "releaseType": "hypervisor",
+      "links": [
+        {
+          "url": "https://bzzhr.to/5an3j61bmg0n",
+          "host": "bzzhr.to",
+          "label": "Link",
+          "role": "Link"
+        }
+      ],
+      "sourceTopicId": 154893,
+      "sourcePostId": 3555289,
+      "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3555289#p3555289",
+      "postedAt": null,
+      "text": "WWE 2K26 HYPERVISOR - DenuvOwO Massive thanks to those who helped: 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: bzzhr.to link https://bzzhr.to/5an3j61bmg0n ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 1.14 (BuildID 24193653) Make sure to read the NFO SHA-256: 587b6b8f424c7263631d2a33c498ecdf7ad6388a5161cf1c4b29f8d2f22cf734 Learn more here on HV releases: Hypervisor cracks - best practices and release requirements Hypervisor cracks and Windows security - an introduction All questions related to issues & support should only be raised in the Hypervisor cracks support topic. Hypervisor-based releases are EXPERIMENTAL: It is possible to encounter BSODs.",
+      "packageTypes": [
+        "combined-or-unspecified"
+      ],
+      "cpuRequirements": [],
+      "supportedCpuVendors": [],
+      "edition": null,
+      "includesDlc": null,
+      "isLatestVersion": false,
+      "updateNotes": [],
+      "supersedesPreviousLink": false,
+      "nfoReleaseDate": null,
+      "shopReleaseDate": null,
+      "nfoReleaseType": null,
+      "nfoKind": null,
+      "nfoFormat": null,
+      "protection": null,
+      "hashAlgorithm": null,
+      "hashValue": null,
+      "requiresConfirmation": true
+    },
+    {
+      "provider": "cs.rin.ru",
+      "title": "PRAGMATA",
+      "releaseName": null,
+      "gameTitle": "PRAGMATA",
+      "steamAppId": null,
+      "buildId": "23443442",
+      "version": "1.220",
+      "sha256": "106584c28adb8217f5dad86c5ea640e3890e2f6fd88f961fa79f37b4a1769aff",
+      "author": "DenuvOwO",
+      "releaseType": "hypervisor",
+      "links": [
+        {
+          "url": "https://bzzhr.to/glgal44gvlzc",
+          "host": "bzzhr.to",
+          "label": "Link",
+          "role": "Link"
+        }
+      ],
+      "sourceTopicId": 159345,
+      "sourcePostId": 3555084,
+      "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3555084#p3555084",
+      "postedAt": null,
+      "text": "PRAGMATA HYPERVISOR - DenuvOwO Massive thanks to those who helped: 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: bzzhr.to link https://bzzhr.to/glgal44gvlzc ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 1.220 (BuildID 23443442) Make sure to read the NFO SHA-256: 106584c28adb8217f5dad86c5ea640e3890e2f6fd88f961fa79f37b4a1769aff Learn more here on HV releases: Hypervisor cracks - best practices and release requirements Hypervisor cracks and Windows security - an introduction All questions related to issues & support should only be raised in the Hypervisor cracks support topic. Hypervisor-based releases are EXPERIMENTAL: It is possible to encounter BSODs.",
+      "packageTypes": [
+        "combined-or-unspecified"
+      ],
+      "cpuRequirements": [],
+      "supportedCpuVendors": [],
+      "edition": null,
+      "includesDlc": null,
+      "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
       "nfoReleaseDate": null,

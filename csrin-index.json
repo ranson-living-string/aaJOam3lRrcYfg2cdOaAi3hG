@@ -1,9 +1,9 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-07-30T00:25:30.478307+00:00",
+  "generatedAt": "2026-07-31T00:27:34.158785+00:00",
   "provider": "cs.rin.ru",
   "sourceForum": null,
-  "discoveredTopics": 18,
+  "discoveredTopics": 1,
   "releases": [
     {
       "provider": "cs.rin.ru",
@@ -11460,6 +11460,50 @@
       "edition": null,
       "includesDlc": null,
       "isLatestVersion": true,
+      "updateNotes": [],
+      "supersedesPreviousLink": false,
+      "nfoReleaseDate": null,
+      "shopReleaseDate": null,
+      "nfoReleaseType": null,
+      "nfoKind": null,
+      "nfoFormat": null,
+      "protection": null,
+      "hashAlgorithm": null,
+      "hashValue": null,
+      "requiresConfirmation": true
+    },
+    {
+      "provider": "cs.rin.ru",
+      "title": "The First Berserker: Khazan",
+      "releaseName": null,
+      "gameTitle": "The First Berserker: Khazan",
+      "steamAppId": null,
+      "buildId": null,
+      "version": null,
+      "sha256": "0dc5c7099b205a484ada31efe2ac122a87a0de342866e91fa99030c7b6db6e91",
+      "author": "DenuvOwO",
+      "releaseType": "hypervisor",
+      "links": [
+        {
+          "url": "https://bzzhr.to/a0pgr5zuw7ye",
+          "host": "bzzhr.to",
+          "label": "Link",
+          "role": "Link"
+        }
+      ],
+      "sourceTopicId": 159345,
+      "sourcePostId": 3560132,
+      "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3560132#p3560132",
+      "postedAt": null,
+      "text": "The First Berserker: Khazan HYPERVISOR - DenuvOwO Massive thanks to those who helped: 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: bzzhr.to link https://bzzhr.to/a0pgr5zuw7ye ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game BuildID is 24447756 Make sure to read the NFO SHA-256: 0dc5c7099b205a484ada31efe2ac122a87a0de342866e91fa99030c7b6db6e91 Learn more here on HV releases: Hypervisor cracks - best practices and release requirements Hypervisor cracks and Windows security - an introduction All questions related to issues & support should only be raised in the Hypervisor cracks support topic. Hypervisor-based releases are EXPERIMENTAL: It is possible to encounter BSODs.",
+      "packageTypes": [
+        "combined-or-unspecified"
+      ],
+      "cpuRequirements": [],
+      "supportedCpuVendors": [],
+      "edition": null,
+      "includesDlc": null,
+      "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
       "nfoReleaseDate": null,

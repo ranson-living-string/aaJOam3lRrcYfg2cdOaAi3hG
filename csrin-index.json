@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-02T00:28:17.797802+00:00",
+  "generatedAt": "2026-08-03T00:28:39.607732+00:00",
   "provider": "cs.rin.ru",
   "sourceForum": null,
   "discoveredTopics": 1,
@@ -11460,6 +11460,50 @@
       "edition": null,
       "includesDlc": null,
       "isLatestVersion": true,
+      "updateNotes": [],
+      "supersedesPreviousLink": false,
+      "nfoReleaseDate": null,
+      "shopReleaseDate": null,
+      "nfoReleaseType": null,
+      "nfoKind": null,
+      "nfoFormat": null,
+      "protection": null,
+      "hashAlgorithm": null,
+      "hashValue": null,
+      "requiresConfirmation": true
+    },
+    {
+      "provider": "cs.rin.ru",
+      "title": "Crimson Desert",
+      "releaseName": null,
+      "gameTitle": "Crimson Desert",
+      "steamAppId": null,
+      "buildId": "24514451",
+      "version": "1.16.01",
+      "sha256": "2a9cc8227073553bc0b20f8abcbc98740237842a0a5924890eb36b606c1fc9ce",
+      "author": "DenuvOwO",
+      "releaseType": "hypervisor",
+      "links": [
+        {
+          "url": "https://bzzhr.to/fvf66augzown",
+          "host": "bzzhr.to",
+          "label": "Link",
+          "role": "Link"
+        }
+      ],
+      "sourceTopicId": 160311,
+      "sourcePostId": 3561908,
+      "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3561908#p3561908",
+      "postedAt": null,
+      "text": "Crimson Desert HYPERVISOR - DenuvOwO Massive thanks to those who helped: 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: bzzhr.to link https://bzzhr.to/fvf66augzown ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 1.16.01 (BuildID 24514451) Make sure to read the NFO SHA-256: 2a9cc8227073553bc0b20f8abcbc98740237842a0a5924890eb36b606c1fc9ce Learn more here on HV releases: Hypervisor cracks - best practices and release requirements Hypervisor cracks and Windows security - an introduction All questions related to issues & support should only be raised in the Hypervisor cracks support topic. Hypervisor-based releases are EXPERIMENTAL: It is possible to encounter BSODs.",
+      "packageTypes": [
+        "combined-or-unspecified"
+      ],
+      "cpuRequirements": [],
+      "supportedCpuVendors": [],
+      "edition": null,
+      "includesDlc": null,
+      "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
       "nfoReleaseDate": null,

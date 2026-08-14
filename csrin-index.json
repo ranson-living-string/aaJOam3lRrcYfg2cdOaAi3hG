@@ -1,9 +1,9 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-13T00:50:12.652552+00:00",
+  "generatedAt": "2026-08-14T00:52:24.461688+00:00",
   "provider": "cs.rin.ru",
   "sourceForum": null,
-  "discoveredTopics": 19,
+  "discoveredTopics": 1,
   "releases": [
     {
       "provider": "cs.rin.ru",
@@ -12037,6 +12037,202 @@
       "edition": null,
       "includesDlc": null,
       "isLatestVersion": true,
+      "updateNotes": [],
+      "supersedesPreviousLink": false,
+      "nfoReleaseDate": null,
+      "shopReleaseDate": null,
+      "nfoReleaseType": null,
+      "nfoKind": null,
+      "nfoFormat": null,
+      "protection": null,
+      "hashAlgorithm": null,
+      "hashValue": null,
+      "requiresConfirmation": true
+    },
+    {
+      "provider": "cs.rin.ru",
+      "title": "Stellar Blade™",
+      "releaseName": null,
+      "gameTitle": "Stellar Blade™",
+      "steamAppId": null,
+      "buildId": "24463856",
+      "version": null,
+      "sha256": "841333b77656f27e2a0bb15781e6ef9638ff951cfaa52749f5315252c3dced48",
+      "author": "DenuvOwO",
+      "releaseType": "hypervisor",
+      "links": [
+        {
+          "url": "https://bzzhr.to/92x4aa5gle77",
+          "host": "bzzhr.to",
+          "label": "Link",
+          "role": "Link"
+        }
+      ],
+      "sourceTopicId": 159345,
+      "sourcePostId": 3568768,
+      "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3568768#p3568768",
+      "postedAt": null,
+      "text": "Stellar Blade™ HYPERVISOR - DenuvOwO Massive thanks to those who helped: 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: bzzhr.to link https://bzzhr.to/92x4aa5gle77 ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is (BuildID 24463856) Edit: Fixed link Make sure to read the NFO SHA-256: 841333b77656f27e2a0bb15781e6ef9638ff951cfaa52749f5315252c3dced48 Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435 Hypervisor-based releases are EXPERIMENTAL: It is possible to encounter BSODs, quite more likely on Intel processors atm.",
+      "packageTypes": [
+        "combined-or-unspecified"
+      ],
+      "cpuRequirements": [],
+      "supportedCpuVendors": [
+        "Intel"
+      ],
+      "edition": null,
+      "includesDlc": null,
+      "isLatestVersion": false,
+      "updateNotes": [
+        "Edit: Fixed link Make sure to read the NFO SHA-256: 841333b77656f27e2a0bb15781e6ef9638ff951cfaa52749f5315252c3dced48 Learn more here on HV releases: viewtopic"
+      ],
+      "supersedesPreviousLink": false,
+      "nfoReleaseDate": null,
+      "shopReleaseDate": null,
+      "nfoReleaseType": null,
+      "nfoKind": null,
+      "nfoFormat": null,
+      "protection": null,
+      "hashAlgorithm": null,
+      "hashValue": null,
+      "requiresConfirmation": true
+    },
+    {
+      "provider": "cs.rin.ru",
+      "title": "Echoes of Aincrad",
+      "releaseName": null,
+      "gameTitle": "Echoes of Aincrad",
+      "steamAppId": null,
+      "buildId": "24543994",
+      "version": "1.0.5",
+      "sha256": "914b0db886609d054391515446640ed4e0b5f5422179c39bc18060875be6e56f",
+      "author": "DenuvOwO",
+      "releaseType": "hypervisor",
+      "links": [
+        {
+          "url": "https://buzzheavier.com/hjggy8sjuy5x",
+          "host": "buzzheavier.com",
+          "label": "https://buzzheavier.com/hjggy8sjuy5x",
+          "role": null
+        },
+        {
+          "url": "https://bzzhr.to/bq1koqc368es",
+          "host": "bzzhr.to",
+          "label": "Link",
+          "role": "Link"
+        }
+      ],
+      "sourceTopicId": 159345,
+      "sourcePostId": 3568765,
+      "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3568765#p3568765",
+      "postedAt": null,
+      "text": "Echoes of Aincrad HYPERVISOR - DenuvOwO Massive thanks to those who helped: 0xZeOn, Sagerao, Special For, Andreh, Mojtaba [CSF] Echoes.of.Aincrad.v1.0.5 - 54.1GB : buzzheavier.com link https://buzzheavier.com/hjggy8sjuy5x ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Link: bzzhr.to link https://bzzhr.to/bq1koqc368es ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is 1.0.5 (BuildID 24543994) Make sure to read the NFO SHA-256: 914b0db886609d054391515446640ed4e0b5f5422179c39bc18060875be6e56f Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435 Hypervisor-based releases are EXPERIMENTAL: It is possible to encounter BSODs, quite more likely on Intel processors atm.",
+      "packageTypes": [
+        "combined-or-unspecified"
+      ],
+      "cpuRequirements": [],
+      "supportedCpuVendors": [
+        "Intel"
+      ],
+      "edition": null,
+      "includesDlc": null,
+      "isLatestVersion": false,
+      "updateNotes": [],
+      "supersedesPreviousLink": false,
+      "nfoReleaseDate": null,
+      "shopReleaseDate": null,
+      "nfoReleaseType": null,
+      "nfoKind": null,
+      "nfoFormat": null,
+      "protection": null,
+      "hashAlgorithm": null,
+      "hashValue": null,
+      "requiresConfirmation": true
+    },
+    {
+      "provider": "cs.rin.ru",
+      "title": "Metal Gear Solid V: The Phantom Pain",
+      "releaseName": null,
+      "gameTitle": "Metal Gear Solid V: The Phantom Pain",
+      "steamAppId": null,
+      "buildId": "24176213",
+      "version": null,
+      "sha256": "2568192b3b8ece3e0a8e16a61f9de90f6afce9c493118b3257d9a7ebe2d7e3ae",
+      "author": "DenuvOwO",
+      "releaseType": "hypervisor",
+      "links": [
+        {
+          "url": "https://bzzhr.to/26fhchlmuzht",
+          "host": "bzzhr.to",
+          "label": "Link",
+          "role": "Link"
+        }
+      ],
+      "sourceTopicId": 88528,
+      "sourcePostId": 3568756,
+      "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3568756#p3568756",
+      "postedAt": null,
+      "text": "Metal Gear Solid V: The Phantom Pain HYPERVISOR - DenuvOwO Massive thanks to those who helped: 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Link: bzzhr.to link https://bzzhr.to/26fhchlmuzht ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is (BuildID 24176213) Make sure to read the NFO SHA-256: 2568192b3b8ece3e0a8e16a61f9de90f6afce9c493118b3257d9a7ebe2d7e3ae Learn more here on HV releases: viewtopic.php?f=14&t=156419 viewtopic.php?f=14&t=156407 All questions related to issues & support should only be raised in the HV support topic: viewtopic.php?t=156435 Hypervisor-based releases are EXPERIMENTAL: It is possible to encounter BSODs, quite more likely on Intel processors atm.",
+      "packageTypes": [
+        "combined-or-unspecified"
+      ],
+      "cpuRequirements": [],
+      "supportedCpuVendors": [
+        "Intel"
+      ],
+      "edition": null,
+      "includesDlc": null,
+      "isLatestVersion": false,
+      "updateNotes": [],
+      "supersedesPreviousLink": false,
+      "nfoReleaseDate": null,
+      "shopReleaseDate": null,
+      "nfoReleaseType": null,
+      "nfoKind": null,
+      "nfoFormat": null,
+      "protection": null,
+      "hashAlgorithm": null,
+      "hashValue": null,
+      "requiresConfirmation": true
+    },
+    {
+      "provider": "cs.rin.ru",
+      "title": "Tom Clancy's Ghost Recon® Wildlands",
+      "releaseName": null,
+      "gameTitle": "Tom Clancy's Ghost Recon® Wildlands",
+      "steamAppId": null,
+      "buildId": null,
+      "version": "v9840374",
+      "sha256": "52a94af4f87019eba92e1d1780bae854ccf3c431610a75bdc9514a9476594da4",
+      "author": "DenuvOwO",
+      "releaseType": "hypervisor",
+      "links": [
+        {
+          "url": "https://bzzhr.to/o3p9ajv5pmna",
+          "host": "bzzhr.to",
+          "label": "Crack",
+          "role": "Crack"
+        },
+        {
+          "url": "https://bzzhr.to/m7q0srx9hdg2",
+          "host": "bzzhr.to",
+          "label": "https://bzzhr.to/m7q0srx9hdg2",
+          "role": null
+        }
+      ],
+      "sourceTopicId": 72236,
+      "sourcePostId": 3568735,
+      "sourceUrl": "https://cs.rin.ru/forum/viewtopic.php?p=3568735#p3568735",
+      "postedAt": null,
+      "text": "Tom Clancy's Ghost Recon® Wildlands HYPERVISOR - DenuvOwO Massive thanks to those who helped: 0xZeOn, Sagerao, Special For, Andreh, Mojtaba Crack: bzzhr.to link https://bzzhr.to/o3p9ajv5pmna ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Ubisoft exe: bzzhr.to link https://bzzhr.to/m7q0srx9hdg2 ⚠ Malicious ads - [READ ME] This site shows fake download pages with malware. Learn how to stay safe here . Game version is v9840374 If you have the Steam version of the game, delete the \"distribution.steam\" file in game root and replace the executable with the Ubisoft version linked above. Make sure to read the NFO SHA-256: 52a94af4f87019eba92e1d1780bae854ccf3c431610a75bdc9514a9476594da4 Learn more here on HV releases: Hypervisor cracks - best practices and release requirements Hypervisor cracks and Windows security - an introduction All questions related to issues & support should only be raised in the Hypervisor cracks support topic. Hypervisor-based releases are EXPERIMENTAL: It is possible to encounter BSODs.",
+      "packageTypes": [
+        "crack"
+      ],
+      "cpuRequirements": [],
+      "supportedCpuVendors": [],
+      "edition": null,
+      "includesDlc": null,
+      "isLatestVersion": false,
       "updateNotes": [],
       "supersedesPreviousLink": false,
       "nfoReleaseDate": null,
